@@ -1,0 +1,12 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+
+<Shell xmlns="http://xamarin.com/schemas/2014/forms"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             xmlns:detailPages="clr-namespace:ISOD_Mobile.DetailPages;assembly=ISOD_Mobile"
+             x:Class="ISOD_Mobile.AppShell"
+             Shell.TabBarIsVisible="False">
+    <FlyoutItem FlyoutDisplayOptions="AsMultipleItems">
+        <ShellContent Title="Strona główna" x:Name="ShellContent_mainpage" ContentTemplate="{DataTemplate detailPages:MainPage}"/>
+        <ShellContent Title="Wyloguj się" x:Name="ShellContent_logout" ContentTemplate="{DataTemplate detailPages:LoginPage}"/>
+    </FlyoutItem>
+</Shell>

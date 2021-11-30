@@ -1,18 +1,20 @@
 ﻿using System;
+using ISOD_Mobile.Models;
 using Xamarin.Forms;
 using Xamarin.Forms.Xaml;
 
-[assembly: XamlCompilation(XamlCompilationOptions.Compile)]
 
 namespace ISOD_Mobile
 {
     public partial class App : Application
     {
+        public static UserData UserData = new UserData();
+        
         public App()
         {
             InitializeComponent();
 
-            MainPage = new MainPage();
+            MainPage = new SplashPage();
         }
 
         protected override void OnStart()

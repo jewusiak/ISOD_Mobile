@@ -1,0 +1,21 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<ContentPage xmlns="http://xamarin.com/schemas/2014/forms"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             x:Class="ISOD_Mobile.DetailPages.LoginPage">
+    <ContentPage.Content>
+        <AbsoluteLayout>
+            <StackLayout AbsoluteLayout.LayoutBounds=".6, .5, .8, 1" AbsoluteLayout.LayoutFlags="All" >
+                
+                <StackLayout HorizontalOptions="CenterAndExpand" VerticalOptions="CenterAndExpand">
+                    
+                    <Label Text="Zaloguj się danymi z ISOD" HorizontalOptions="CenterAndExpand" FontSize="Title"/>
+                    <Entry x:Name="APIKeyEntry" HorizontalOptions="CenterAndExpand" Placeholder="Klucz API"/>
+                    <Entry x:Name="UsernameEntry" HorizontalOptions="CenterAndExpand" Placeholder="Nazwa użytkownika"/>
+                    <Button x:Name="APIKeyAcceptEntry" Clicked="APIKeyAcceptEntry_OnClicked" Text="Dodaj klucz"/>
+                    
+                </StackLayout>
+
+            </StackLayout>
+        </AbsoluteLayout>
+    </ContentPage.Content>
+</ContentPage>

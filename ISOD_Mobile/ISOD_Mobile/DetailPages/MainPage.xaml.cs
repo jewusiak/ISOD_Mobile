@@ -3,10 +3,13 @@ using System.Collections.Generic;
 using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
-using Xamarin.Forms;
 
-namespace ISOD_Mobile
+using Xamarin.Forms;
+using Xamarin.Forms.Xaml;
+
+namespace ISOD_Mobile.DetailPages
 {
+    [XamlCompilation(XamlCompilationOptions.Compile)]
     public partial class MainPage : ContentPage
     {
         public MainPage()

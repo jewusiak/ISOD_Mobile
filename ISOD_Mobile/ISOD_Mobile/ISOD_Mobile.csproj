@@ -10,6 +10,26 @@
     </PropertyGroup>
 
     <ItemGroup>
+        <PackageReference Include="Newtonsoft.Json" Version="13.0.1" />
+        <PackageReference Include="RestSharp" Version="106.13.0" />
+        <PackageReference Include="Xamarin.Essentials" Version="1.7.0" />
         <PackageReference Include="Xamarin.Forms" Version="5.0.0.2012" />
+    </ItemGroup>
+
+    <ItemGroup>
+      <None Remove="Media\EE-logo.png" />
+      <EmbeddedResource Include="Media\EE-logo.png" />
+      <None Remove="Media\Icons\home_icon.png" />
+      <None Remove="Media\home_icon.png" />
+      <EmbeddedResource Include="Media\home_icon.png" />
+      <None Remove="Media\outline_logout_black_24dp.png" />
+      <EmbeddedResource Include="Media\logout_icon.png" />
+    </ItemGroup>
+
+    <ItemGroup>
+      <Compile Update="DetailPages\LoginPage.xaml.cs">
+        <DependentUpon>LoginPage.xaml</DependentUpon>
+        <SubType>Code</SubType>
+      </Compile>
     </ItemGroup>
 </Project>

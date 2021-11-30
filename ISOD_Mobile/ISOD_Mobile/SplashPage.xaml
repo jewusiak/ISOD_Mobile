@@ -7,11 +7,12 @@
         <AbsoluteLayout>
             <StackLayout AbsoluteLayout.LayoutBounds=".5,.5,.5,.5" AbsoluteLayout.LayoutFlags="All">
                 
-                <Image x:Name="splashLogo" /> <!--Source="https://www.ee.pw.edu.pl/wp-content/uploads/2014/05/logo_ee_big.png"--><!--Do wykasowania Source, aby brało z Embedded Resource-->
+                <Image x:Name="splashLogo"/> <!--Source="https://www.ee.pw.edu.pl/wp-content/uploads/2014/05/logo_ee_big.png"--><!--Do wykasowania Source, aby brało z Embedded Resource-->
                 <Label Text="Aplikacja mobilna ISOD" HorizontalOptions="CenterAndExpand" FontSize="Title"/>
                 <Label Text="Wersja dla studentów" HorizontalOptions="CenterAndExpand" FontSize="Subtitle"/>
                 
 
+                <ActivityIndicator IsRunning="True"/>
             </StackLayout>
             <StackLayout AbsoluteLayout.LayoutBounds="0, 1, 1, .1" AbsoluteLayout.LayoutFlags="All">
                 <Label x:Name="copyrightBottomLabel" HorizontalOptions="CenterAndExpand" VerticalOptions="EndAndExpand" Margin="0,0,0,15" />

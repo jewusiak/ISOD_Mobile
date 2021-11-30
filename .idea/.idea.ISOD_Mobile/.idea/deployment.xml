@@ -1,0 +1,92 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="PublishConfigData" remoteFilesAllowedToDisappearOnAutoupload="false">
+    <serverData>
+      <paths name="getalong">
+        <serverdata>
+          <mappings>
+            <mapping local="$PROJECT_DIR$/../../../../Program Files (x86)/Microsoft/Xamarin/NuGet/xamarin.androidx.activity/1.1.0.5/aar/androidx.activity.activity.aar" web="/" />
+            <mapping local="$PROJECT_DIR$/../../../../Program Files (x86)/Microsoft/Xamarin/NuGet/xamarin.androidx.annotation.experimental/1.0.0.8/aar/androidx.annotation.annotation-experimental.aar" web="/" />
+            <mapping local="$PROJECT_DIR$/../../../../Program Files (x86)/Microsoft/Xamarin/NuGet/xamarin.androidx.annotation/1.1.0.8/jar/androidx.annotation.annotation.jar" web="/" />
+            <mapping local="$PROJECT_DIR$/../../../../Program Files (x86)/Microsoft/Xamarin/NuGet/xamarin.androidx.appcompat.appcompatresources/1.2.0.6/aar/androidx.appcompat.appcompat-resources.aar" web="/" />
+            <mapping local="$PROJECT_DIR$/../../../../Program Files (x86)/Microsoft/Xamarin/NuGet/xamarin.androidx.appcompat/1.2.0.6/aar/androidx.appcompat.appcompat.aar" web="/" />
+            <mapping local="$PROJECT_DIR$/../../../../Program Files (x86)/Microsoft/Xamarin/NuGet/xamarin.androidx.appcompat/1.2.0.6/proguard/proguard.txt" web="/" />
+            <mapping local="$PROJECT_DIR$/../../../../Program Files (x86)/Microsoft/Xamarin/NuGet/xamarin.androidx.arch.core.common/2.1.0.7/jar/androidx.arch.core.core-common.jar" web="/" />
+            <mapping local="$PROJECT_DIR$/../../../../Program Files (x86)/Microsoft/Xamarin/NuGet/xamarin.androidx.arch.core.runtime/2.1.0.7/aar/androidx.arch.core.core-runtime.aar" web="/" />
+            <mapping local="$PROJECT_DIR$/../../../../Program Files (x86)/Microsoft/Xamarin/NuGet/xamarin.androidx.asynclayoutinflater/1.0.0.6/aar/androidx.asynclayoutinflater.asynclayoutinflater.aar" web="/" />
+            <mapping local="$PROJECT_DIR$/../../../../Program Files (x86)/Microsoft/Xamarin/NuGet/xamarin.androidx.browser/1.3.0/aar/androidx.browser.browser.aar" web="/" />
+            <mapping local="$PROJECT_DIR$/../../../../Program Files (x86)/Microsoft/Xamarin/NuGet/xamarin.androidx.cardview/1.0.0.6/aar/androidx.cardview.cardview.aar" web="/" />
+            <mapping local="$PROJECT_DIR$/../../../../Program Files (x86)/Microsoft/Xamarin/NuGet/xamarin.androidx.collection/1.1.0.6/jar/androidx.collection.collection.jar" web="/" />
+            <mapping local="$PROJECT_DIR$/../../../../Program Files (x86)/Microsoft/Xamarin/NuGet/xamarin.androidx.coordinatorlayout/1.1.0.6/aar/androidx.coordinatorlayout.coordinatorlayout.aar" web="/" />
+            <mapping local="$PROJECT_DIR$/../../../../Program Files (x86)/Microsoft/Xamarin/NuGet/xamarin.androidx.coordinatorlayout/1.1.0.6/proguard/proguard.txt" web="/" />
+            <mapping local="$PROJECT_DIR$/../../../../Program Files (x86)/Microsoft/Xamarin/NuGet/xamarin.androidx.core/1.3.2.1/aar/androidx.core.core.aar" web="/" />
+            <mapping local="$PROJECT_DIR$/../../../../Program Files (x86)/Microsoft/Xamarin/NuGet/xamarin.androidx.core/1.3.2.1/proguard/proguard.txt" web="/" />
+            <mapping local="$PROJECT_DIR$/../../../../Program Files (x86)/Microsoft/Xamarin/NuGet/xamarin.androidx.cursoradapter/1.0.0.6/aar/androidx.cursoradapter.cursoradapter.aar" web="/" />
+            <mapping local="$PROJECT_DIR$/../../../../Program Files (x86)/Microsoft/Xamarin/NuGet/xamarin.androidx.customview/1.1.0.4/aar/androidx.customview.customview.aar" web="/" />
+            <mapping local="$PROJECT_DIR$/../../../../Program Files (x86)/Microsoft/Xamarin/NuGet/xamarin.androidx.documentfile/1.0.1.6/aar/androidx.documentfile.documentfile.aar" web="/" />
+            <mapping local="$PROJECT_DIR$/../../../../Program Files (x86)/Microsoft/Xamarin/NuGet/xamarin.androidx.drawerlayout/1.1.1.1/aar/androidx.drawerlayout.drawerlayout.aar" web="/" />
+            <mapping local="$PROJECT_DIR$/../../../../Program Files (x86)/Microsoft/Xamarin/NuGet/xamarin.androidx.fragment/1.2.5.4/aar/androidx.fragment.fragment.aar" web="/" />
+            <mapping local="$PROJECT_DIR$/../../../../Program Files (x86)/Microsoft/Xamarin/NuGet/xamarin.androidx.fragment/1.2.5.4/proguard/proguard.txt" web="/" />
+            <mapping local="$PROJECT_DIR$/../../../../Program Files (x86)/Microsoft/Xamarin/NuGet/xamarin.androidx.interpolator/1.0.0.6/aar/androidx.interpolator.interpolator.aar" web="/" />
+            <mapping local="$PROJECT_DIR$/../../../../Program Files (x86)/Microsoft/Xamarin/NuGet/xamarin.androidx.legacy.support.core.ui/1.0.0.7/aar/androidx.legacy.legacy-support-core-ui.aar" web="/" />
+            <mapping local="$PROJECT_DIR$/../../../../Program Files (x86)/Microsoft/Xamarin/NuGet/xamarin.androidx.legacy.support.core.utils/1.0.0.6/aar/androidx.legacy.legacy-support-core-utils.aar" web="/" />
+            <mapping local="$PROJECT_DIR$/../../../../Program Files (x86)/Microsoft/Xamarin/NuGet/xamarin.androidx.legacy.support.v4/1.0.0.6/aar/androidx.legacy.legacy-support-v4.aar" web="/" />
+            <mapping local="$PROJECT_DIR$/../../../../Program Files (x86)/Microsoft/Xamarin/NuGet/xamarin.androidx.lifecycle.common/2.2.0.4/jar/androidx.lifecycle.lifecycle-common.jar" web="/" />
+            <mapping local="$PROJECT_DIR$/../../../../Program Files (x86)/Microsoft/Xamarin/NuGet/xamarin.androidx.lifecycle.livedata.core/2.2.0.4/aar/androidx.lifecycle.lifecycle-livedata-core.aar" web="/" />
+            <mapping local="$PROJECT_DIR$/../../../../Program Files (x86)/Microsoft/Xamarin/NuGet/xamarin.androidx.lifecycle.livedata/2.2.0.4/aar/androidx.lifecycle.lifecycle-livedata.aar" web="/" />
+            <mapping local="$PROJECT_DIR$/../../../../Program Files (x86)/Microsoft/Xamarin/NuGet/xamarin.androidx.lifecycle.runtime/2.2.0.4/aar/androidx.lifecycle.lifecycle-runtime.aar" web="/" />
+            <mapping local="$PROJECT_DIR$/../../../../Program Files (x86)/Microsoft/Xamarin/NuGet/xamarin.androidx.lifecycle.runtime/2.2.0.4/proguard/proguard.txt" web="/" />
+            <mapping local="$PROJECT_DIR$/../../../../Program Files (x86)/Microsoft/Xamarin/NuGet/xamarin.androidx.lifecycle.viewmodel/2.2.0.4/aar/androidx.lifecycle.lifecycle-viewmodel.aar" web="/" />
+            <mapping local="$PROJECT_DIR$/../../../../Program Files (x86)/Microsoft/Xamarin/NuGet/xamarin.androidx.lifecycle.viewmodel/2.2.0.4/proguard/proguard.txt" web="/" />
+            <mapping local="$PROJECT_DIR$/../../../../Program Files (x86)/Microsoft/Xamarin/NuGet/xamarin.androidx.lifecycle.viewmodelsavedstate/2.2.0.4/aar/androidx.lifecycle.lifecycle-viewmodel-savedstate.aar" web="/" />
+            <mapping local="$PROJECT_DIR$/../../../../Program Files (x86)/Microsoft/Xamarin/NuGet/xamarin.androidx.lifecycle.viewmodelsavedstate/2.2.0.4/proguard/proguard.txt" web="/" />
+            <mapping local="$PROJECT_DIR$/../../../../Program Files (x86)/Microsoft/Xamarin/NuGet/xamarin.androidx.loader/1.1.0.6/aar/androidx.loader.loader.aar" web="/" />
+            <mapping local="$PROJECT_DIR$/../../../../Program Files (x86)/Microsoft/Xamarin/NuGet/xamarin.androidx.localbroadcastmanager/1.0.0.6/aar/androidx.localbroadcastmanager.localbroadcastmanager.aar" web="/" />
+            <mapping local="$PROJECT_DIR$/../../../../Program Files (x86)/Microsoft/Xamarin/NuGet/xamarin.androidx.media/1.2.1.1/aar/androidx.media.media.aar" web="/" />
+            <mapping local="$PROJECT_DIR$/../../../../Program Files (x86)/Microsoft/Xamarin/NuGet/xamarin.androidx.media/1.2.1.1/proguard/proguard.txt" web="/" />
+            <mapping local="$PROJECT_DIR$/../../../../Program Files (x86)/Microsoft/Xamarin/NuGet/xamarin.androidx.print/1.0.0.6/aar/androidx.print.print.aar" web="/" />
+            <mapping local="$PROJECT_DIR$/../../../../Program Files (x86)/Microsoft/Xamarin/NuGet/xamarin.androidx.recyclerview/1.1.0.6/aar/androidx.recyclerview.recyclerview.aar" web="/" />
+            <mapping local="$PROJECT_DIR$/../../../../Program Files (x86)/Microsoft/Xamarin/NuGet/xamarin.androidx.recyclerview/1.1.0.6/proguard/proguard.txt" web="/" />
+            <mapping local="$PROJECT_DIR$/../../../../Program Files (x86)/Microsoft/Xamarin/NuGet/xamarin.androidx.savedstate/1.1.0.4-alpha01/aar/androidx.savedstate.savedstate.aar" web="/" />
+            <mapping local="$PROJECT_DIR$/../../../../Program Files (x86)/Microsoft/Xamarin/NuGet/xamarin.androidx.savedstate/1.1.0.4-alpha01/proguard/proguard.txt" web="/" />
+            <mapping local="$PROJECT_DIR$/../../../../Program Files (x86)/Microsoft/Xamarin/NuGet/xamarin.androidx.slidingpanelayout/1.1.0.1/aar/androidx.slidingpanelayout.slidingpanelayout.aar" web="/" />
+            <mapping local="$PROJECT_DIR$/../../../../Program Files (x86)/Microsoft/Xamarin/NuGet/xamarin.androidx.swiperefreshlayout/1.1.0.1/aar/androidx.swiperefreshlayout.swiperefreshlayout.aar" web="/" />
+            <mapping local="$PROJECT_DIR$/../../../../Program Files (x86)/Microsoft/Xamarin/NuGet/xamarin.androidx.transition/1.3.1.6/aar/androidx.transition.transition.aar" web="/" />
+            <mapping local="$PROJECT_DIR$/../../../../Program Files (x86)/Microsoft/Xamarin/NuGet/xamarin.androidx.transition/1.3.1.6/proguard/proguard.txt" web="/" />
+            <mapping local="$PROJECT_DIR$/../../../../Program Files (x86)/Microsoft/Xamarin/NuGet/xamarin.androidx.vectordrawable.animated/1.1.0.6/aar/androidx.vectordrawable.vectordrawable-animated.aar" web="/" />
+            <mapping local="$PROJECT_DIR$/../../../../Program Files (x86)/Microsoft/Xamarin/NuGet/xamarin.androidx.vectordrawable.animated/1.1.0.6/proguard/proguard.txt" web="/" />
+            <mapping local="$PROJECT_DIR$/../../../../Program Files (x86)/Microsoft/Xamarin/NuGet/xamarin.androidx.vectordrawable/1.1.0.6/aar/androidx.vectordrawable.vectordrawable.aar" web="/" />
+            <mapping local="$PROJECT_DIR$/../../../../Program Files (x86)/Microsoft/Xamarin/NuGet/xamarin.androidx.versionedparcelable/1.1.1.6/aar/androidx.versionedparcelable.versionedparcelable.aar" web="/" />
+            <mapping local="$PROJECT_DIR$/../../../../Program Files (x86)/Microsoft/Xamarin/NuGet/xamarin.androidx.versionedparcelable/1.1.1.6/proguard/proguard.txt" web="/" />
+            <mapping local="$PROJECT_DIR$/../../../../Program Files (x86)/Microsoft/Xamarin/NuGet/xamarin.androidx.viewpager/1.0.0.6/aar/androidx.viewpager.viewpager.aar" web="/" />
+            <mapping local="$PROJECT_DIR$/../../../../Program Files (x86)/Microsoft/Xamarin/NuGet/xamarin.androidx.viewpager2/1.0.0.8/aar/androidx.viewpager2.viewpager2.aar" web="/" />
+            <mapping local="$PROJECT_DIR$/../../../../Program Files (x86)/Microsoft/Xamarin/NuGet/xamarin.google.android.material/1.2.1.1/aar/com.google.android.material.material.aar" web="/" />
+            <mapping local="$PROJECT_DIR$/../../../../Program Files (x86)/Microsoft/Xamarin/NuGet/xamarin.google.android.material/1.2.1.1/proguard/proguard.txt" web="/" />
+            <mapping local="$PROJECT_DIR$/../../../../Program Files (x86)/Microsoft/Xamarin/NuGet/xamarin.google.guava.listenablefuture/1.0.0.2/buildTransitive/monoandroid50/guava-listenablefuture.jar" web="/" />
+            <mapping local="$PROJECT_DIR$/ISOD_Mobile.Android/Assets/AboutAssets.txt" web="/" />
+            <mapping local="$PROJECT_DIR$/ISOD_Mobile.Android/ISOD_Mobile.Android.csproj" web="/" />
+            <mapping local="$PROJECT_DIR$/ISOD_Mobile.Android/MainActivity.cs" web="/" />
+            <mapping local="$PROJECT_DIR$/ISOD_Mobile.Android/Properties/AndroidManifest.xml" web="/" />
+            <mapping local="$PROJECT_DIR$/ISOD_Mobile.Android/Properties/AssemblyInfo.cs" web="/" />
+            <mapping local="$PROJECT_DIR$/ISOD_Mobile.Android/Resources/AboutResources.txt" web="/" />
+            <mapping local="$PROJECT_DIR$/ISOD_Mobile.Android/Resources/Resource.designer.cs" web="/" />
+            <mapping local="$PROJECT_DIR$/ISOD_Mobile.Android/Resources/layout/Tabbar.axml" web="/" />
+            <mapping local="$PROJECT_DIR$/ISOD_Mobile.Android/Resources/layout/Toolbar.axml" web="/" />
+            <mapping local="$PROJECT_DIR$/ISOD_Mobile.Android/Resources/values/colors.xml" web="/" />
+            <mapping local="$PROJECT_DIR$/ISOD_Mobile.Android/Resources/values/styles.xml" web="/" />
+            <mapping local="$PROJECT_DIR$/ISOD_Mobile.iOS/AppDelegate.cs" web="/" />
+            <mapping local="$PROJECT_DIR$/ISOD_Mobile.iOS/Assets.xcassets/AppIcon.appiconset/Contents.json" web="/" />
+            <mapping local="$PROJECT_DIR$/ISOD_Mobile.iOS/Entitlements.plist" web="/" />
+            <mapping local="$PROJECT_DIR$/ISOD_Mobile.iOS/ISOD_Mobile.iOS.csproj" web="/" />
+            <mapping local="$PROJECT_DIR$/ISOD_Mobile.iOS/Info.plist" web="/" />
+            <mapping local="$PROJECT_DIR$/ISOD_Mobile.iOS/Main.cs" web="/" />
+            <mapping local="$PROJECT_DIR$/ISOD_Mobile.iOS/Properties/AssemblyInfo.cs" web="/" />
+            <mapping local="$PROJECT_DIR$/ISOD_Mobile.iOS/Resources/LaunchScreen.storyboard" web="/" />
+            <mapping local="$PROJECT_DIR$/ISOD_Mobile.sln" web="/" />
+            <mapping local="$PROJECT_DIR$" web="/" />
+          </mappings>
+        </serverdata>
+      </paths>
+    </serverData>
+  </component>
+</project>
