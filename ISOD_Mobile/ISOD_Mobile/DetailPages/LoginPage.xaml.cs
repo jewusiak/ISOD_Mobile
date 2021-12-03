@@ -18,7 +18,8 @@ namespace ISOD_Mobile.DetailPages
             Task.Run(async () =>
             {
                 await App.UserData.DownloadPlan();
-                Device.BeginInvokeOnMainThread(()=>Application.Current.MainPage=new AppShell());   
+                await Shell.Current.GoToAsync($"{nameof(SplashPage)}");
+                //Device.BeginInvokeOnMainThread(()=>Application.Current.MainPage=new AppShell());   
             }); 
         }
     }

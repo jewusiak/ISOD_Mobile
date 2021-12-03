@@ -3,10 +3,21 @@
 <Shell xmlns="http://xamarin.com/schemas/2014/forms"
              xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
              xmlns:detailPages="clr-namespace:ISOD_Mobile.DetailPages;assembly=ISOD_Mobile"
+             xmlns:root="clr-namespace:ISOD_Mobile;assembly=ISOD_Mobile"
              x:Class="ISOD_Mobile.AppShell"
              Shell.TabBarIsVisible="False">
+    <ShellItem>
+        <ShellContent Title="Splashscreen" ContentTemplate="{DataTemplate root:SplashPage}" Route="SplashPage"/>
+    </ShellItem>
+    
+    
     <FlyoutItem FlyoutDisplayOptions="AsMultipleItems">
-        <ShellContent Title="Strona główna" x:Name="ShellContent_mainpage" ContentTemplate="{DataTemplate detailPages:MainPage}"/>
-        <ShellContent Title="Wyloguj się" x:Name="ShellContent_logout" ContentTemplate="{DataTemplate detailPages:LoginPage}"/>
+        <ShellContent Title="Strona główna" x:Name="ShellContent_mainpage" ContentTemplate="{DataTemplate detailPages:MainPage}" Route="MainPage"/>
     </FlyoutItem>
+    
+    
+    <MenuItem>
+        
+        <ShellContent Title="Wyloguj się" x:Name="ShellContent_logout" ContentTemplate="{DataTemplate detailPages:LoginPage}" Route="LoginPage"/>
+    </MenuItem>
 </Shell>

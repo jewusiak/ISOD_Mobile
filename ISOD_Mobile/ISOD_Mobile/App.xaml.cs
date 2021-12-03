@@ -14,7 +14,8 @@ namespace ISOD_Mobile
         {
             InitializeComponent();
 
-            MainPage = new SplashPage();
+            //MainPage = new SplashPage();
+            MainPage = new AppShell();
         }
 
         protected override void OnStart()
